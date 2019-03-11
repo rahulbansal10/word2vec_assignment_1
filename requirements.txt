@@ -1,0 +1,7 @@
+import tensorflow as tf
+import numpy as np<br
+import math
+import nltk
+from nltk.corpus import reuters
+from keras.preprocessing.text import text_to_word_sequence
+import pickle
